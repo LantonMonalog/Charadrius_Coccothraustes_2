@@ -1,7 +1,11 @@
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
 ---
-title: "Charadrius_Coccothraustes_2"
+title: "Charadrius & Coccothraustes: Plovers and Fringillid Grosbeaks"
 ---
 
-This is a Quarto website.
+A collaboration of Caleb Centanni (https://github.com/LantonMonalog) and Maeve Staab (https://github.com/maeve-s).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![A Piping Plover chick among the gentle grasses. By Wikimedia Commons User FWS.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Charadrius_melodus_FWS_10365_01.jpg/640px-Charadrius_melodus_FWS_10365_01.jpg)

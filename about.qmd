@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "Caleb Centanni"
 ---
 
-About this site
+About me
+
+-   PhD student at Lab of Ornithology in Natural Resources field, studying Evening Grosbeaks
+
+-   Originally from Oregon, where I was an avid birder and have seen more than 400 species
+
+-   Enjoy writing songs and poetry when not in the field
+
+-   Excited to be learning programming languages this term!
