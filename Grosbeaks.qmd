@@ -3,7 +3,7 @@ title: "Coccothraustes Grosbeaks"
 editor: visual
 ---
 
-Family: Fringillidae (cardueline finches) 
+Family: Fringillidae (cardueline finches)
 
 Species: 3
 
