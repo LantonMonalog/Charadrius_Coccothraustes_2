@@ -1,0 +1,18 @@
+---
+title: "Coccothraustes Grosbeaks"
+editor: visual
+---
+
+Family: Fringillidae (cardueline finches) Species: 3
+
+**Hawfinch (*Coccothraustes coccothraustes*)**, Range: High Temperate Palearctic
+
+![The piercing gaze of a Hawfinch](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coccothraustes_coccothraustes_-_01.jpg/640px-Coccothraustes_coccothraustes_-_01.jpg)
+
+**Evening Grosbeak (*Coccothraustes vespertinus*)**, Range: Boreal and Subalpine Nearctic
+
+![The golden sunrise Grosbeak and the crimson sunset sumac, Attribution CCSA 3.0, Wikimedia user Cephas](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hesperiphona_vespertina_CT2.jpg/640px-Hesperiphona_vespertina_CT2.jpg)
+
+**Hooded Grosbeak (*Coccothraustes abeillii*)**, Range: Montaine Neotropics (Central America)
+
+![A Hooded Grosbeak glances furtively out from a tangled pine. Attribution CCSA 2.0, Wikimedia user Dominic Sherony](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Coccothraustes_abeillei.jpg/640px-Coccothraustes_abeillei.jpg)

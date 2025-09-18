@@ -1,0 +1,18 @@
+---
+title: "Charadrius Plovers"
+editor: visual
+---
+
+Family Charadriidae (plovers)
+
+Species: 4
+
+*Ranges reflect breeding grounds only.*
+
+**Killdeer(*Charadrius vociferus*)**, Range: Americas from Equatorial Region North
+
+**Common Ringed Plover(*Charadrius hiaticula*)**, Range: High Boreal Palearctic and Greenland Tundra
+
+**Semipalmated Plover(*Charadrius semipalmatus*)**, Range: High Boreal Nearctic Tundra Excepting Greenland
+
+**Piping Plover(*Charadrius melodus*)**, Range: High Temperate Nearctic Sandflats and Beaches

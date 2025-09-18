@@ -2,15 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Caleb Centanni",
     "section": "",
-    "text": "About this site"
+    "text": "About me\n\nPhD student at Lab of Ornithology in Natural Resources field, studying Evening Grosbeaks\nOriginally from Oregon, where I was an avid birder and have seen more than 400 species\nEnjoy writing songs and poetry when not in the field\nExcited to be learning programming languages this term!"
+  },
+  {
+    "objectID": "Plovers.html",
+    "href": "Plovers.html",
+    "title": "Charadrius Plovers",
+    "section": "",
+    "text": "Family Charadriidae (plovers)\nSpecies: 4\nRanges reflect breeding grounds only.\nKilldeer(Charadrius vociferus), Range: Americas from Equatorial Region North\nCommon Ringed Plover(Charadrius hiaticula), Range: High Boreal Palearctic and Greenland Tundra\nSemipalmated Plover(Charadrius semipalmatus), Range: High Boreal Nearctic Tundra Excepting Greenland\nPiping Plover(Charadrius melodus), Range: High Temperate Nearctic Sandflats and Beaches"
+  },
+  {
+    "objectID": "Grosbeaks.html",
+    "href": "Grosbeaks.html",
+    "title": "Coccothraustes Grosbeaks",
+    "section": "",
+    "text": "Family: Fringillidae (cardueline finches) Species: 3\nHawfinch (Coccothraustes coccothraustes), Range: High Temperate Palearctic\n\n\n\nThe piercing gaze of a Hawfinch\n\n\nEvening Grosbeak (Coccothraustes vespertinus), Range: Boreal and Subalpine Nearctic\n\n\n\nThe golden sunrise Grosbeak and the crimson sunset sumac, Attribution CCSA 3.0, Wikimedia user Cephas\n\n\nHooded Grosbeak (Coccothraustes abeillii), Range: Montaine Neotropics (Central America)\n\n\n\nA Hooded Grosbeak glances furtively out from a tangled pine. Attribution CCSA 2.0, Wikimedia user Dominic Sherony"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Charadrius_Coccothraustes_2",
+    "title": "Charadrius & Coccothraustes: Plovers and Fringillid Grosbeaks",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "A collaboration of Caleb Centanni (https://github.com/LantonMonalog) and Maeve Staab (https://github.com/maeve-s).\n\n\n\nA Piping Plover chick among the gentle grasses. By Wikimedia Commons User FWS."
   }
 ]
