@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: Docs
+  output-dir: docs
 
 website:
-  title: "Charadrius & Coccothraustes"
+  title: "Charadrius & Coccothraustes 2"
   navbar:
     left:
       - href: index.qmd
