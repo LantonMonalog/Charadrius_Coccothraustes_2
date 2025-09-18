@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Charadrius & Coccothraustes 2"
+  title: "Charadrius & Coccothraustes"
   navbar:
     left:
       - href: index.qmd
